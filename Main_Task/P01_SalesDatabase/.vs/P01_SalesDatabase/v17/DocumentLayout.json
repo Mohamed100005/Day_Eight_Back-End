@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|f:\\learning\\net core\\day eight\\tasks\\main_task\\p01_salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25904663-F019-4C49-8B2C-12AC2BCFAAB2}|P01_SalesDatabase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Store.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Models\\Store.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Store.cs",
+              "RelativeToolTip": "Models\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:46:15.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:44:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:41:31.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "Models\\Sale.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Models\\Sale.cs",
+              "RelativeToolTip": "Models\\Sale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:38:41.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:35:32.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\Learning\\Net Core\\Day Eight\\Tasks\\Main_Task\\P01_SalesDatabase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T14:32:21.708Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
